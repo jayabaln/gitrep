@@ -1,4 +1,8 @@
 hi
 hello
+<<<<<<< HEAD
 jay
 bala
+=======
+jayabal
+>>>>>>> d6449e7aae0a5284f19cc2c19390f6ce6f67ce23
